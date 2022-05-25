@@ -1,0 +1,12 @@
+body {
+     background-image: url("http://www.aroldomura.com.br/wp-content/uploads/2021/01/caixa_economica_federal.jpg");
+     background-repeat: no-repeat;
+     background-size: 40%;
+    }
+#btn{
+    margin-top: 250px;
+    background-color: blue;
+    color: #ffffff;
+    border-radius: 28px;
+    font-size: 30px;
+ 
